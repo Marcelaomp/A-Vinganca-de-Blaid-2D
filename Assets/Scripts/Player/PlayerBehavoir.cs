@@ -1,9 +1,15 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerBehavoir : MonoBehaviour
 {
     [SerializeField] private float _movementSpeed = 5;
     [SerializeField] private float _jumpForce = 6;
+    
+    [Header("Propriedades de ataque")]
+    [SerializeField] private Transform _attackObject;
+    [SerializeField] private float _attackRange;
+    [SerializeField] private LayerMask enemyLayer;
 
     private Rigidbody2D _rigidbody;
     private SpriteRenderer _spriteRenderer;
@@ -63,5 +69,25 @@ public class PlayerBehavoir : MonoBehaviour
             GetComponent<Collider2D>().enabled = false;
             _rigidbody.constraints = RigidbodyConstraints2D.FreezeAll;
         }
+    }
+
+    private void Attack()
+    {
+        Collider2D[] hitEnemies= Physics2D.OverlapCircleAll(_attackObject.position, _attackRange, enemyLayer);
+
+        foreach (Collider2D hitEnemy in hitEnemies)
+        {
+            if (hitEnemy.TryGetComponent(out Health enemyHealth))
+            {
+                print("Bateu");
+                enemyHealth.reduceLifeCount();
+            }
+        }
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(_attackObject.position, _attackRange);
     }
 }
