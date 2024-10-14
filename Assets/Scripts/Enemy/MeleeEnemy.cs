@@ -6,11 +6,16 @@ public class MeleeEnemy : BaseEnemy
     private PlayerDetector _playerDetector;
     private float _cooldownTimer;
     [SerializeField] private float _attackCooldown;
+    private Health _enemyHealth;
 
     protected override void Awake()
     {
         animator = GetComponent<Animator>();
         _playerDetector = GetComponent<PlayerDetector>();
+        _enemyHealth = GetComponent<Health>();
+
+        _enemyHealth.OnDamage += TakeDamage;
+        _enemyHealth.OnDeath += Die;
     }
 
     protected override void Update()
@@ -38,5 +43,15 @@ public class MeleeEnemy : BaseEnemy
     private bool isReadyToAttack()
     {
         return _cooldownTimer > _attackCooldown;
+    }
+
+    private void TakeDamage()
+    {
+        animator.SetTrigger("hurt");
+    }
+
+    private void Die()
+    {
+        animator.SetTrigger("die");
     }
 }

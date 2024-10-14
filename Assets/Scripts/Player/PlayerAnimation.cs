@@ -13,9 +13,14 @@ public class PlayerAnimation : MonoBehaviour
         _animator = GetComponent<Animator>();
         _onGroundChecker = GetComponent<OnGroundChecker>();
         _playerHealth = GetComponent<Health>();
-
+        
         _playerHealth.OnDamage += TakeDamage;
         _playerHealth.OnDeath += Die;
+    }
+
+    private void Start()
+    {
+        GameManager.Instance.InputManager.OnAttack += AttackAnimation;
     }
 
     private void Update()
@@ -25,6 +30,11 @@ public class PlayerAnimation : MonoBehaviour
 
         bool isJumping = ! _onGroundChecker.IsOnGround();
         _animator.SetBool("isJumping", isJumping);
+    }
+
+    private void AttackAnimation()
+    {
+        _animator.SetTrigger("attack");
     }
 
     private void TakeDamage()
