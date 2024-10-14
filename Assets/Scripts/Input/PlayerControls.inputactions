@@ -80,17 +80,6 @@
                 },
                 {
                     "name": "",
-                    "id": "b11210a1-bd10-4375-952b-5f1ca9c8e38a",
-                    "path": "<Touchscreen>/position/x",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Movement",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "f8df9f3b-ef1c-41d1-b94c-34757007a83d",
                     "path": "<Keyboard>/space",
                     "interactions": "",
