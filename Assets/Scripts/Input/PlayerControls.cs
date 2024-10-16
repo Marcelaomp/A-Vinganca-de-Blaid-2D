@@ -33,7 +33,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""id"": ""8363bec4-8546-4f21-9074-f6082ff42642"",
                     ""expectedControlType"": ""Axis"",
                     ""processors"": """",
-                    ""interactions"": """",
+                    ""interactions"": ""Press(behavior=2)"",
                     ""initialStateCheck"": true
                 },
                 {
@@ -42,7 +42,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""id"": ""c403e45e-7f24-47aa-80ab-393b85662772"",
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
-                    ""interactions"": """",
+                    ""interactions"": ""Press(behavior=2)"",
                     ""initialStateCheck"": false
                 },
                 {
@@ -51,7 +51,7 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""id"": ""e4c9da5e-046b-43ad-891d-d20266fea34f"",
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
-                    ""interactions"": """",
+                    ""interactions"": ""Press(behavior=2)"",
                     ""initialStateCheck"": false
                 }
             ],
