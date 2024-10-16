@@ -1,4 +1,4 @@
-using System.Security.Cryptography;
+using System.Collections;
 using UnityEngine;
 
 public class MeleeEnemy : BaseEnemy
@@ -53,5 +53,12 @@ public class MeleeEnemy : BaseEnemy
     private void Die()
     {
         animator.SetTrigger("die");
+        StartCoroutine(DestroyEnemy(1));
+    }
+
+    private IEnumerator DestroyEnemy(int time)
+    {
+        yield return new WaitForSeconds(time);
+        Destroy(this.gameObject);
     }
 }

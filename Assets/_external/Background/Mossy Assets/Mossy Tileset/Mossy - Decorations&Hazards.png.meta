@@ -1,0 +1,3308 @@
+fileFormatVersion: 2
+guid: c54b32f7ebb22dc4c8fa1d27b85f1b5d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 520
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3780.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b760c3ce1c9214b822411179ee3aac
+      internalID: -2081156741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3780.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1c7d1288915fd48b033668ac3a9acc
+      internalID: 1983762258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_2
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3780.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b6348278b87b44a4a22f7b85e37c9
+      internalID: 465886208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_3
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3780.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a45404e5536db408a7eeb41265b2c7
+      internalID: 2032481742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_4
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 3780.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60878a4eecfb2ba49890f4176b22ffd1
+      internalID: 1131195459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d8a76b95d14244487c8bc0a2382117
+      internalID: -438454101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1def1e93a9adb94591457b7e3ded1aa
+      internalID: 842520374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017991136a27ea54ca545330bc56731f
+      internalID: -1991337759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_8
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0942a0f3ebd52b4a9ea418f7bd15268
+      internalID: -407676007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_9
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f24a3519ee298c4dbf99afbf7c08342
+      internalID: 1406254682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_10
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f2984084e1c246830647587a286a9
+      internalID: 143841250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_11
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2328db838ef1fd247aefa9995548913d
+      internalID: -1696781972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_12
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def966904180dec44bb3679d5fe3fbfe
+      internalID: -1708126948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_13
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f6e713cc1d454d8c25375a1a54d4f
+      internalID: 1311294869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_14
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656e18f9c42d8d47b0924892f2fd24c
+      internalID: -2104527883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_15
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af9906b42d8dea4ba1652d32a418e98
+      internalID: 1481329892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_16
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc43cf975601a145afa0a3f2fca41c8
+      internalID: 608320160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_17
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3465.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b31f70709c6c439b982fbb7648907
+      internalID: -1758233408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5b1a29b09055a48821093f8d340ee2
+      internalID: 1682488798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db762524b4fe5c49a01d8c57c69203e
+      internalID: -1204184568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_20
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f903ac82ff09746be7b27fff7f089a
+      internalID: 858127687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_21
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854a1e62e28c1d64eab58659b3b6ad55
+      internalID: -1892256501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_22
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3de98b96f28c6f4fa0eb1f18e92004e
+      internalID: 1877732670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_23
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f151e3ccc13983343a75a98d284a4e21
+      internalID: -906830366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_24
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2449961e9c0e3b4aba5a30fb5ada239
+      internalID: -2074879183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_25
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcb0ba2d5b222a47b0f7ef0f95a9cd2
+      internalID: -1597378307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_26
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d16873c3bbf20469caf9b898deb4fe
+      internalID: 1767823016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_27
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5d155dee3fbdd498fabaaaadbaa1ce
+      internalID: -1515088093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_28
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9fe9d5ea7920043b0e1381466d3b1b
+      internalID: 949947770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_29
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2583c96f96bc8ae40b28ba5d2d3f917c
+      internalID: 262099001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_30
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3150.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa53690bd45694b4b91e05ce6209e1a7
+      internalID: -1180572977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e29462cc10b9240b868cca7ea95a67
+      internalID: -2079585711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a9ec11377bb1f4094e76b60ae575af
+      internalID: -1712451724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed01c3fe03bbaa41a32e8de64b4f575
+      internalID: 2133503359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_34
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687ca54a43314f248a4dda231c9b1bff
+      internalID: 1134185875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_35
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861c558c289a35e49882695c366f7394
+      internalID: 251818156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_36
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2884234060f18cf45958523573ace213
+      internalID: 1929191314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_37
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08db6974f7d1ee41b21e96dca63a92c
+      internalID: 780237982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_38
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0b4fe20e9f7c40949d9fcc77168e4
+      internalID: -1056207718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_39
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31191bab39b8803498434e0343963b7a
+      internalID: 1880860621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_40
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2835.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca3438c41f62a42974043005973c8d
+      internalID: -396856132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850129e8f51a39c449dd9125af65e7e5
+      internalID: 1326295129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830dc8e13cee09a4bbb5e82301d705fc
+      internalID: 92643332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_43
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2624519fc9f1f2c4aa70d4c6404dd091
+      internalID: -723011664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_44
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd4cdd0a620a294ea2ac3acc20baf13
+      internalID: -1492447397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_45
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5485c21826643746a17e462b623447a
+      internalID: 1390004910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_46
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbafe2be501ecc4382067b4676f9c99
+      internalID: 991969315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_47
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0120fa0f500e0b24c8d7ca0fec710d75
+      internalID: -429007753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_48
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc2963ff3bf85345ad5f0368fa7b4d8
+      internalID: 1891206482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_49
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb50c5db01ccbb4cb1710a2ecdc9c6b
+      internalID: -1467135870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_50
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e5d99a025f3441aa7f295cc1356cb
+      internalID: 264995655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_51
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2520.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63426620c6d26384ca043107e48371a6
+      internalID: 301947904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_52
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2205.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250270ab0c679c64aa4ff0cbf259beb7
+      internalID: 428714887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_53
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2205.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a185769e9178041ac9d780e80eb9e7
+      internalID: 257962703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_54
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2205.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926400ce1747c284aad16935e417685b
+      internalID: -1467150744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_55
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2205.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254a5f7e868e12040bf968234751be20
+      internalID: -1656583786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_56
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2205.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45648b80c9719f146a01779650dc52a8
+      internalID: 241056707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_57
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2205.923
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18c9238af04b2c4081600e2192220a5
+      internalID: -17094464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb1a9199ccd2074093ae2a37ae86ad6
+      internalID: 1470593962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_59
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb3e69e8c050640865878b2e80e66a
+      internalID: -1242033404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_60
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a6620ed749f1c4abbd02e42821a392
+      internalID: -1842630931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_61
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c7cd0a027aa34888551a784741246
+      internalID: -215195737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_62
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e47a85e67706f64eab6cc4f3b781828
+      internalID: 319121987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_63
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22035969573d2348ba806d8b5ebf416
+      internalID: 790171283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_64
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163bf43d81dbaba4ca2df39874b1dcd3
+      internalID: -1991517442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_65
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648eedbd1789ec4c9555f4fffb01230
+      internalID: 320380301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_66
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d9a1938b4240a48834d08c98064122
+      internalID: 790143608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_67
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde929d0fcfdba498874c71e1a5ca00
+      internalID: 1290386731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_68
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613712c5684c39448fdbf89c789b892
+      internalID: -1827413276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_69
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1890.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7a99ce60a33a439f616507d20193a
+      internalID: -1817189513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93019891469fb9142beb2880a36eb6ca
+      internalID: 1216898953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_71
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f62904b9cf873e4d975590e5ca27e0f
+      internalID: 1931999415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_72
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ad194f83eeadc41bb5048bbecec504
+      internalID: 238295714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_73
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee32e340851ecdb478537448b6d4afd6
+      internalID: 1006246486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_74
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719d0f651f34c3245bf72b419a44d374
+      internalID: 1135426002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_75
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28a2607eccaa3043b1f9f00defdbd3c
+      internalID: -333102369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_76
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd59b477a34430478c3afca3ff162ef
+      internalID: -807305364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_77
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3a1669964218418a00db5b8534e74
+      internalID: 323418438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_78
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf767445cc8c6343b0327c7da5b150d
+      internalID: -628463121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_79
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fab6118d1554341b43e92486e8c4c6
+      internalID: 983281713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_80
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1575.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e045a8024d7d2c74f9c4490d5450e73a
+      internalID: 1607511268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b25882d5e2d8f14097ba4afff2ebf9b
+      internalID: 1803182767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_82
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6dd7f13b2f3ad44ba1562b5651815c
+      internalID: -1705403690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_83
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4eee61cd4f6de428657a09270c13da
+      internalID: -266473086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_84
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb9710cfaef7bf41a66f9a1cc455f08
+      internalID: 1268216150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_85
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962728ce4efc51d4d95eee6f71db118b
+      internalID: 173613815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_86
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62233a81e7a39e4998835ce79137168
+      internalID: 572395313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_87
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f850f025b96cc44ba63b699368f411
+      internalID: 618639502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_88
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5831f3305269f47abd9a1796856f1d
+      internalID: 264053715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_89
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e301d109c8d678749b715a741f20052b
+      internalID: -1556998610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_90
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bc0f2aec5dc94292d35920d70d6a7
+      internalID: -1450812690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_91
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed3fecba01be04d8c1604a7a25b42a
+      internalID: -1990164184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_92
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50feddba36e6c46908f5705156e76a
+      internalID: 323013428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_93
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1260.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c314b2aeac9b343a07a7d0b14ef3e8
+      internalID: 1585931512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef14a4ba1719d348af19c6c912693e3
+      internalID: 1109265597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_95
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19cfa8b88f70d74694f4040c459b15f
+      internalID: -1239523079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_96
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ac9e6e219536e448c0f572c3198e26
+      internalID: -1041395521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_97
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8dcebfa69662f4694e9dc2cfecdffb
+      internalID: 1041807300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_98
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621c7314858c7bf48b96a7dfc1c7e3a5
+      internalID: -38055982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_99
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450dffbf2ea018540a119c03e47c5a14
+      internalID: 1563590712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_100
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d444a10aeada77041a3d654d85e321fa
+      internalID: 163547306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_101
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b60ba9f0d75164a9882b697cac7fbd
+      internalID: 1994634458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_102
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2bf83618f26ce41a0a2e27bbdb49f0
+      internalID: -14381799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_103
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d991335ab74a8414788de15eb672ca63
+      internalID: -2050254574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_104
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdddeb8176309324dafdb96ee42942bd
+      internalID: -80795084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_105
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b384bac6bbbbdff47a66d6f1d30a09e8
+      internalID: 610192778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_106
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 945.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cefd0b60f2ec8e44aefb6a3bb574e5b
+      internalID: 427747930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fbdc4c60dbdd4469025569c7de607c
+      internalID: -46524317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422af31fc133aff408115ecec6047696
+      internalID: -1227337244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_109
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7bf7895cd59ae4cba5e56f1f0a3140
+      internalID: -335036480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_110
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b03d6667140c41afdacd9a7878e94
+      internalID: -1353178149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_111
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d067ce243b2bb459c04867f6fddabd
+      internalID: 1868876605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_112
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d1f8b859a92c4c9f14d5a8488506f
+      internalID: -1508932080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_113
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62962c46ba7356439c904b83105f62a
+      internalID: -1237637384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_114
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a31ec63571dc4dbb5cd0f730ee2cf
+      internalID: -598050307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_115
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c133186eaba6a444a5a8af8325ee15c
+      internalID: -1887344996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_116
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584acfc1b7248454cb3fea3a68202520
+      internalID: -1116620688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_117
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff8b77f3c89c745b373be5b2dff675
+      internalID: -1751205919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_118
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7987572da3b564eb9625ba3270a7c5
+      internalID: -345154127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_119
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 630.9231
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6894dd5b4148642bf9430cac0c442b
+      internalID: 204067678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5cf8e3fe023d248a906a029ffafd1c
+      internalID: -1060005700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_121
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62335994b51add2489f89f8f35eb0b84
+      internalID: -183540538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_122
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec758c504523c44599caa358a3b445e
+      internalID: 162027676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_123
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b080c238d3c6245a49ccb52940b8bf
+      internalID: 1598291155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_124
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a32c96019c13754f93e663510fa6e26
+      internalID: 2071358198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_125
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6417033ec53c56845b1d8f2235620ab5
+      internalID: 1228539968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_126
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d2d7ec7a91bd044ac5ae46a35abd3d
+      internalID: -2035025590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_127
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3bde61e6fecfa498a35232c62899cd
+      internalID: 1412336571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_128
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00028e297ca7faf4cbc97c9db6ec3e8d
+      internalID: 1370718224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_129
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f517cd51b4a7648a6bece069df57d3
+      internalID: -1736516027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_130
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f08ae6317d65f49908dd0c571c6faa
+      internalID: -1663074772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_131
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75391a94b5d33e64286d6ced4985a389
+      internalID: 2023892574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_132
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 315.92307
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db472c9e2d831547ba721da2f08ca9a
+      internalID: -1742218286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae87e384078d7c42a2dfa1de29b4e98
+      internalID: 121824175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_134
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d765da8769fe2704098af9fa8f4201a8
+      internalID: -1493363825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_135
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b0b22ba95ff547bf869d5746f80a0
+      internalID: 731232043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_136
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8937a473148944bbc8a1816ba6957
+      internalID: 1731494832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_137
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9088a99241a281a49a4e4c4f659010fd
+      internalID: 310587682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_138
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01765d3c67b0b8144812433c24aa58f4
+      internalID: 1036503200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_139
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec19b94b014c63b489bd5b106787bb2a
+      internalID: -1340015800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_140
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daae1e81cb7fc7247ae0b708eaed5cb7
+      internalID: -351164944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_141
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753f2d78da4ec4d4f8af54e13cbcadfb
+      internalID: -1103168690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_142
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9840f65aac8cd7f40a8f8ed83c55ce30
+      internalID: 681502260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy - Decorations&Hazards_143
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 0.9230652
+        width: 315.07693
+        height: 315.07693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0608225e8469f1b46bb5845e11fafaf9
+      internalID: 1682329143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mossy - Decorations&Hazards_0: -2081156741
+      Mossy - Decorations&Hazards_1: 1983762258
+      Mossy - Decorations&Hazards_10: 143841250
+      Mossy - Decorations&Hazards_100: 163547306
+      Mossy - Decorations&Hazards_101: 1994634458
+      Mossy - Decorations&Hazards_102: -14381799
+      Mossy - Decorations&Hazards_103: -2050254574
+      Mossy - Decorations&Hazards_104: -80795084
+      Mossy - Decorations&Hazards_105: 610192778
+      Mossy - Decorations&Hazards_106: 427747930
+      Mossy - Decorations&Hazards_107: -46524317
+      Mossy - Decorations&Hazards_108: -1227337244
+      Mossy - Decorations&Hazards_109: -335036480
+      Mossy - Decorations&Hazards_11: -1696781972
+      Mossy - Decorations&Hazards_110: -1353178149
+      Mossy - Decorations&Hazards_111: 1868876605
+      Mossy - Decorations&Hazards_112: -1508932080
+      Mossy - Decorations&Hazards_113: -1237637384
+      Mossy - Decorations&Hazards_114: -598050307
+      Mossy - Decorations&Hazards_115: -1887344996
+      Mossy - Decorations&Hazards_116: -1116620688
+      Mossy - Decorations&Hazards_117: -1751205919
+      Mossy - Decorations&Hazards_118: -345154127
+      Mossy - Decorations&Hazards_119: 204067678
+      Mossy - Decorations&Hazards_12: -1708126948
+      Mossy - Decorations&Hazards_120: -1060005700
+      Mossy - Decorations&Hazards_121: -183540538
+      Mossy - Decorations&Hazards_122: 162027676
+      Mossy - Decorations&Hazards_123: 1598291155
+      Mossy - Decorations&Hazards_124: 2071358198
+      Mossy - Decorations&Hazards_125: 1228539968
+      Mossy - Decorations&Hazards_126: -2035025590
+      Mossy - Decorations&Hazards_127: 1412336571
+      Mossy - Decorations&Hazards_128: 1370718224
+      Mossy - Decorations&Hazards_129: -1736516027
+      Mossy - Decorations&Hazards_13: 1311294869
+      Mossy - Decorations&Hazards_130: -1663074772
+      Mossy - Decorations&Hazards_131: 2023892574
+      Mossy - Decorations&Hazards_132: -1742218286
+      Mossy - Decorations&Hazards_133: 121824175
+      Mossy - Decorations&Hazards_134: -1493363825
+      Mossy - Decorations&Hazards_135: 731232043
+      Mossy - Decorations&Hazards_136: 1731494832
+      Mossy - Decorations&Hazards_137: 310587682
+      Mossy - Decorations&Hazards_138: 1036503200
+      Mossy - Decorations&Hazards_139: -1340015800
+      Mossy - Decorations&Hazards_14: -2104527883
+      Mossy - Decorations&Hazards_140: -351164944
+      Mossy - Decorations&Hazards_141: -1103168690
+      Mossy - Decorations&Hazards_142: 681502260
+      Mossy - Decorations&Hazards_143: 1682329143
+      Mossy - Decorations&Hazards_15: 1481329892
+      Mossy - Decorations&Hazards_16: 608320160
+      Mossy - Decorations&Hazards_17: -1758233408
+      Mossy - Decorations&Hazards_18: 1682488798
+      Mossy - Decorations&Hazards_19: -1204184568
+      Mossy - Decorations&Hazards_2: 465886208
+      Mossy - Decorations&Hazards_20: 858127687
+      Mossy - Decorations&Hazards_21: -1892256501
+      Mossy - Decorations&Hazards_22: 1877732670
+      Mossy - Decorations&Hazards_23: -906830366
+      Mossy - Decorations&Hazards_24: -2074879183
+      Mossy - Decorations&Hazards_25: -1597378307
+      Mossy - Decorations&Hazards_26: 1767823016
+      Mossy - Decorations&Hazards_27: -1515088093
+      Mossy - Decorations&Hazards_28: 949947770
+      Mossy - Decorations&Hazards_29: 262099001
+      Mossy - Decorations&Hazards_3: 2032481742
+      Mossy - Decorations&Hazards_30: -1180572977
+      Mossy - Decorations&Hazards_31: -2079585711
+      Mossy - Decorations&Hazards_32: -1712451724
+      Mossy - Decorations&Hazards_33: 2133503359
+      Mossy - Decorations&Hazards_34: 1134185875
+      Mossy - Decorations&Hazards_35: 251818156
+      Mossy - Decorations&Hazards_36: 1929191314
+      Mossy - Decorations&Hazards_37: 780237982
+      Mossy - Decorations&Hazards_38: -1056207718
+      Mossy - Decorations&Hazards_39: 1880860621
+      Mossy - Decorations&Hazards_4: 1131195459
+      Mossy - Decorations&Hazards_40: -396856132
+      Mossy - Decorations&Hazards_41: 1326295129
+      Mossy - Decorations&Hazards_42: 92643332
+      Mossy - Decorations&Hazards_43: -723011664
+      Mossy - Decorations&Hazards_44: -1492447397
+      Mossy - Decorations&Hazards_45: 1390004910
+      Mossy - Decorations&Hazards_46: 991969315
+      Mossy - Decorations&Hazards_47: -429007753
+      Mossy - Decorations&Hazards_48: 1891206482
+      Mossy - Decorations&Hazards_49: -1467135870
+      Mossy - Decorations&Hazards_5: -438454101
+      Mossy - Decorations&Hazards_50: 264995655
+      Mossy - Decorations&Hazards_51: 301947904
+      Mossy - Decorations&Hazards_52: 428714887
+      Mossy - Decorations&Hazards_53: 257962703
+      Mossy - Decorations&Hazards_54: -1467150744
+      Mossy - Decorations&Hazards_55: -1656583786
+      Mossy - Decorations&Hazards_56: 241056707
+      Mossy - Decorations&Hazards_57: -17094464
+      Mossy - Decorations&Hazards_58: 1470593962
+      Mossy - Decorations&Hazards_59: -1242033404
+      Mossy - Decorations&Hazards_6: 842520374
+      Mossy - Decorations&Hazards_60: -1842630931
+      Mossy - Decorations&Hazards_61: -215195737
+      Mossy - Decorations&Hazards_62: 319121987
+      Mossy - Decorations&Hazards_63: 790171283
+      Mossy - Decorations&Hazards_64: -1991517442
+      Mossy - Decorations&Hazards_65: 320380301
+      Mossy - Decorations&Hazards_66: 790143608
+      Mossy - Decorations&Hazards_67: 1290386731
+      Mossy - Decorations&Hazards_68: -1827413276
+      Mossy - Decorations&Hazards_69: -1817189513
+      Mossy - Decorations&Hazards_7: -1991337759
+      Mossy - Decorations&Hazards_70: 1216898953
+      Mossy - Decorations&Hazards_71: 1931999415
+      Mossy - Decorations&Hazards_72: 238295714
+      Mossy - Decorations&Hazards_73: 1006246486
+      Mossy - Decorations&Hazards_74: 1135426002
+      Mossy - Decorations&Hazards_75: -333102369
+      Mossy - Decorations&Hazards_76: -807305364
+      Mossy - Decorations&Hazards_77: 323418438
+      Mossy - Decorations&Hazards_78: -628463121
+      Mossy - Decorations&Hazards_79: 983281713
+      Mossy - Decorations&Hazards_8: -407676007
+      Mossy - Decorations&Hazards_80: 1607511268
+      Mossy - Decorations&Hazards_81: 1803182767
+      Mossy - Decorations&Hazards_82: -1705403690
+      Mossy - Decorations&Hazards_83: -266473086
+      Mossy - Decorations&Hazards_84: 1268216150
+      Mossy - Decorations&Hazards_85: 173613815
+      Mossy - Decorations&Hazards_86: 572395313
+      Mossy - Decorations&Hazards_87: 618639502
+      Mossy - Decorations&Hazards_88: 264053715
+      Mossy - Decorations&Hazards_89: -1556998610
+      Mossy - Decorations&Hazards_9: 1406254682
+      Mossy - Decorations&Hazards_90: -1450812690
+      Mossy - Decorations&Hazards_91: -1990164184
+      Mossy - Decorations&Hazards_92: 323013428
+      Mossy - Decorations&Hazards_93: 1585931512
+      Mossy - Decorations&Hazards_94: 1109265597
+      Mossy - Decorations&Hazards_95: -1239523079
+      Mossy - Decorations&Hazards_96: -1041395521
+      Mossy - Decorations&Hazards_97: 1041807300
+      Mossy - Decorations&Hazards_98: -38055982
+      Mossy - Decorations&Hazards_99: 1563590712
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
